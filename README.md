@@ -1,2 +1,2 @@
 # WebSiteAboutMe
-This web site is about me
+https://kuzegor.github.io/WebSiteAboutMe/
